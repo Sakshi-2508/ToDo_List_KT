@@ -12,8 +12,8 @@ A simple, clean Todo List application built as part of the Beginner Apps collect
 ## Screenshot
 
 <p align="center">
-  <img src="screenshots/image.png.png"/>
-  <img src="screenshots/image1.png.png"/>
+  <img src="screenshots/image.png"/>
+  <img src="screenshots/image1.png"/>
 </p>
 ## Tech Stack
 
