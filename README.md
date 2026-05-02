@@ -11,9 +11,10 @@ A simple, clean Todo List application built as part of the Beginner Apps collect
 
 ## Screenshot
 
-[App Screenshot](screenshots/image1.png)
-[App Screenshot](screenshots/image.png)
-
+<p align="center">
+  <img src="screenshots/image.png.png"/>
+  <img src="screenshots/image1.png.png"/>
+</p>
 ## Tech Stack
 
 - **Language:** Kotlin
