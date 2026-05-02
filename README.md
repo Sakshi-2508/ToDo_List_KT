@@ -12,7 +12,7 @@ A simple, clean Todo List application built as part of the Beginner Apps collect
 ## Screenshot
 
 <p align="left">
-  <img src="screenshots/image.png"  width="250" height="400"/>
+  <img src="screenshots/image.png"  width="250" height="450"/>
   <img src="screenshots/image1.png"  height="400"/>
 </p>
 ## Tech Stack
